@@ -108,7 +108,9 @@ color: rgb(232, 213, 116)
 }
 .memory{
 margin: 20px 0px 20px 10px;
-color: rgb(232, 213, 116)   
+color: rgb(232, 213, 116);
+font-family: 'Hanken Grotesk', sans-serif;   
+
 }
 .category3{
     display:flex;
@@ -125,6 +127,7 @@ color: teal;
 .verbal{
 margin: 20px 15px 20px 10px; 
 color: teal;
+font-family: 'Hanken Grotesk', sans-serif;
 }
 .category4{
     display: flex;
@@ -141,6 +144,7 @@ color: royalblue ;
 .visual{
 margin: 20px 15px 20px 10px; 
 color: royalblue;
+font-family: 'Hanken Grotesk', sans-serif;
 }
 .continue{
 border: 1px solid black;
